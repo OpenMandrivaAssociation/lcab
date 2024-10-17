@@ -8,7 +8,7 @@ Summary:	Command-line Cabinet file creation tool
 Name:		%{name}
 Version:	%{version}
 Release:	%mkrel 0.%pre.%rel
-URL:		http://ohnopub.net/~ohnobinki/lcab/
+URL:		https://ohnopub.net/~ohnobinki/lcab/
 Source0:	ftp://ohnopublishing.net/mirror/%{name}-%{version}%{pre}.tar.gz
 License:	GPLv2+
 Group:		Archiving/Compression
