@@ -13,6 +13,11 @@ Source0:	ftp://ohnopublishing.net/mirror/%{name}-%{version}%{pre}.tar.gz
 License:	GPLv2+
 Group:		Archiving/Compression
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 %description
 Command-line tool for creating Cabinet (.cab) files. The created files
 are not compressed.
